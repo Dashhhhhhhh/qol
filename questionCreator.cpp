@@ -15,7 +15,3 @@ int input(string question, string answer, string reaction){
     }
     return 0;
 }
-
-int main(){
-    input("yes or no", "yes", "WOWOW");
-}

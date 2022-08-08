@@ -9,3 +9,11 @@ Smaller files and More files = More to learn
 making 1 big project gives a reason to keep going back
 
 everyone should code its the future, the files you create will outlive you (if implemented right)
+
+
+
+
+
+
+
+will do arrays sometime soon <3333333333333333333
